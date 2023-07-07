@@ -1,0 +1,3 @@
+javascript runs only on broswer but after introducing the nodejs we can run javascript anywere now
+node js:
+      node js is an javascript runtime environment by that we can run the javascript localy(not browser)
