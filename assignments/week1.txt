@@ -18,8 +18,8 @@ Please try to complete easy and medium exercises by the next week. Brownie point
 
 
 
-Hi @everyone 
-Only if you are comfortable with git and github, and have nodejs/npm installed you can run tests automatically by going to the code on this branch - https://github.com/100xDevs-hkirat/Week-1-assignment/tree/hkirat/with-tests
+Hi @everyone https://github.com/100xDevs-hkirat/Week-1-assignment/tree/hkirat/with-tests
+Only if you are comfortable with git and github, and have nodejs/npm installed you can run tests automatically by going to the code on this branch - 
 
 If you dont understand what's said above, please dont worry and please continue the assignment as you were
 
