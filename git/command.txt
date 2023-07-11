@@ -1,0 +1,5 @@
+git clone 
+git commit 
+git add 
+git log:- gives all the commits made
+git diff:- gives what changes are made to code after the last commit 
